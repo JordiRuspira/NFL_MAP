@@ -10,8 +10,7 @@ Created on Sat Sep 17 00:39:05 2022
 import streamlit as st
 import pandas as pd
 import requests
-import json
-import os 
+import json 
 import time
 import plotly.graph_objects as go
 import plotly.io as pio
